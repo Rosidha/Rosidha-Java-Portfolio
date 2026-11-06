@@ -1,0 +1,8 @@
+**/out/
+**/target/
+**/*.class
+**/*.log
+.env
+**/application-local.properties
+.idea/
+.vscode/

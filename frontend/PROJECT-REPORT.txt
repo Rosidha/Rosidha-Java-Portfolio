@@ -1,0 +1,55 @@
+PROJECT REPORT
+==============
+
+Project Title:
+Rosidha K. — Java Freelancer Portfolio (Version 3)
+
+1. EXISTING SYSTEM / MODEL
+--------------------------
+Developers, freelancers and students commonly use online portfolio websites
+and professional profiles to present their education, skills, services,
+projects and contact details. Such portfolios help visitors understand a
+person's capabilities and work. This project presents portfolio information
+through a standalone Java desktop application.
+
+2. WHERE IT IS CURRENTLY USED
+-----------------------------
+Digital portfolios are used by freelancers, software developers, designers,
+students and job seekers to present their work to clients, recruiters,
+teachers and project teams. A desktop portfolio can also be used for offline
+demonstrations, classroom presentations and Java GUI learning.
+
+3. NEW FEATURES / IDEAS ADDED
+-----------------------------
+- Colourful light theme with a deep-purple sidebar, blue/teal/coral accents, a pastel hero panel and coloured card highlights.
+- Sidebar navigation and separate Home, About, Skills, Services, Projects
+  and Contact pages.
+- Overview section with profile introduction and summary cards.
+- Skill progress bars.
+- Service and project information cards.
+- Contact form with required-field and email validation.
+- Local contact-message storage with date and time.
+- Scrollable pages and resizable desktop window.
+
+4. TECHNOLOGIES USED
+--------------------
+- Java 17 or later
+- Java Swing for GUI components
+- Java AWT for layouts, colors, fonts and graphics
+- Java NIO for local message-file writing
+
+5. LIMITATIONS
+--------------
+- The project is a desktop application, not a public website.
+- Contact messages are stored in a local text file.
+- It does not send emails or connect to an online database.
+- Profile, email and skill details should be customized before final submission.
+
+6. FUTURE ENHANCEMENTS
+---------------------
+- Add a profile photograph selection feature.
+- Add PDF resume export.
+- Connect a database for project and message storage.
+- Add edit/delete project management.
+- Add secure administrator login.
+- Add working social-profile links.
